@@ -42,5 +42,5 @@ Initial game <br>
 
 Source:<br>
 Where I have been learning to code <br>
-https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/Q <br><br>
+https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/ <br><br>
 https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/<br>
