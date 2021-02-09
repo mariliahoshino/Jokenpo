@@ -1,7 +1,9 @@
 # Jokenpo
-My first App, learning Android Studio
+My first App, learning Android Studio <br>
 
-I'm learning how work with Android Studio
+https://play.google.com/store/apps/details?id=com.mariliahoshino.jokenpo  <br>
+
+I'm learning how work with Android Studio<br>
 This is my first App
 
 A mini game
