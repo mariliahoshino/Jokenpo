@@ -4,13 +4,13 @@ My first App, learning Android Studio <br>
 https://play.google.com/store/apps/details?id=com.mariliahoshino.jokenpo  <br>
 
 I'm learning how work with Android Studio<br>
-This is my first App
+This is my first App<br>
 
-A mini game
-A traditional japanese game known as JOKENPO (じょけんぽ) or as Rock Paper Scissors
+A mini game<br>
+A traditional japanese game known as JOKENPO (じょけんぽ) or as Rock Paper Scissors<br>
 
-The App has a principal page where there're three options (Rock Paper Scissors) versus App
-There're events counter for Win, Tie and Lose
+The App has a principal page where there're three options (Rock Paper Scissors) versus App<br>
+There're events counter for Win, Tie and Lose<br>
 
 
 
