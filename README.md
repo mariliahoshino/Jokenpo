@@ -22,7 +22,7 @@ Initial game <br>
   
   
 
-
+<!--
 
 ### My Degree
 
@@ -36,7 +36,7 @@ Initial game <br>
 
 <a href="https://suzano.sp.senai.br/"> <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_senai.png?raw=true" height="30" widht="400"></a>  &nbsp;&nbsp;&nbsp; Maintenance Electrical SENAI - Suzano  
 
-
+-->
 
 
 
